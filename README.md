@@ -2,6 +2,7 @@
 
 | Date | Place | Title |
 | ---| --- | --- |
+| 6/5/2022 | BsidesSF 2022 | [Log in Your Own Eye - Exploiting a Stealthy C2 Channel in Azure Logging Infrastructure](https://github.com/0xd13a/presentations/blob/main/general/LogInYourOwnEye-DBeryoza-BSidesSF2022.pdf)([Demo video](https://github.com/0xd13a/presentations/blob/main/general/LogInYourOwnEye.mov))|
 | 11/11/2021 | DEF CON 612 | [All Software is Open Source: An Introduction to Reverse Engineering](https://github.com/0xd13a/presentations/blob/main/re/AllSoftwareIsOpenSource-DEFCON612-2021.pdf)|
 | 10/20/2021 | OWASP Ottawa | [CISSP: Not Just For Squares](https://github.com/0xd13a/presentations/blob/main/general/CISSPNotJustForSquares-OWASPOttawaOct2021.pdf) ([Video](https://www.youtube.com/watch?v=tBdfEITSQNQ))|
 | 7/22/2021 | BSides Las Vegas | [All Software is Open Source: An Introduction to Reverse Engineering](https://github.com/0xd13a/presentations/blob/main/re/AllSoftwareIsOpenSource-BsidesLV2021.pdf) ([Video](https://www.youtube.com/watch?v=5lftXH06_uk))|
