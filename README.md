@@ -2,6 +2,7 @@
 
 | Date | Place | Title |
 | ---| --- | --- |
+| 11/4/2022 | Microsoft365 Ottawa | [Office Under Siege: Understanding, Discovering, and Preventing Attacks Against M365](https://github.com/0xd13a/presentations/blob/main/general/OfficeUnderSiege-DBeryoza-M365Conference.pdf)|
 | 10/29/2022 | HackFest 2022 | [Office Under Siege: Understanding, Discovering, and Preventing Attacks Against M365](https://github.com/0xd13a/presentations/blob/main/general/OfficeUnderSiege-DBeryoza-HackFest2022.pdf) (Video TBD)|
 | 6/5/2022 | BsidesSF 2022 | [Log in Your Own Eye - Exploiting a Stealthy C2 Channel in Azure Logging Infrastructure](https://github.com/0xd13a/presentations/blob/main/general/LogInYourOwnEye-DBeryoza-BSidesSF2022.pdf) ([Demo video](https://github.com/0xd13a/presentations/blob/main/general/LogInYourOwnEye.mov)) ([Presentation Video](https://www.youtube.com/watch?v=PoEVzcSi3bc)) ([PoC Source Code](https://github.com/0xd13a/kusto-c2))|
 | 11/11/2021 | DEF CON 612 | [All Software is Open Source: An Introduction to Reverse Engineering](https://github.com/0xd13a/presentations/blob/main/re/AllSoftwareIsOpenSource-DEFCON612-2021.pdf)|
