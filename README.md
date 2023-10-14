@@ -2,6 +2,7 @@
 
 | Date | Place | Title |
 | ---| --- | --- |
+| 10/14/2023 | Hackfest 2023 | [Between a Log and a Hard Place: (mis)Adventures in Azure Log Monitoring](https://github.com/0xd13a/presentations/blob/main/general/BetweenALogAndAHardPlace-Hackfest-2023.pdf) ([Demo video](https://www.youtube.com/watch?v=600OdiFNYWE)) (Presentation Video: TBD)|
 | 8/12/2023 | DEF CON 31 Cloud Village | [Between a Log and a Hard Place: (mis)Adventures in Azure Log Monitoring](https://github.com/0xd13a/presentations/blob/main/general/BetweenALogAndAHardPlace-DEFCONCloudVillage-2023.pdf) ([Demo video](https://www.youtube.com/watch?v=600OdiFNYWE)) (Presentation Video: TBD)|
 | 5/17/2023 | OWASP Ottawa | [Office Under Siege: Understanding, Discovering, and Preventing Attacks Against M365](https://github.com/0xd13a/presentations/blob/main/general/OfficeUnderSiege-DBeryoza-HackFest2022.pdf) ([Video](https://www.youtube.com/watch?v=CyVrl7MIgVA))|
 | 11/29/2022 | BSides Ottawa 2022 | [All Software is Open Source: An Introduction to Reverse Engineering](https://github.com/0xd13a/presentations/blob/main/re/AllSoftwareIsOpenSource-BSidesOttawa2022.pdf)|
