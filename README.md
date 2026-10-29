@@ -2,6 +2,7 @@
 
 | Date | Place | Title |
 | ---| --- | --- |
+| 10/30/2026 | Hackfest 2026 | [Playing Defense: Improving Blue Team Skills Through Competitions](https://github.com/0xd13a/presentations/blob/main/general/Playing%20Defense%20-%20Hackfest%202026.pdf)|
 | 4/9/2026 | AtlSecCon 2026 | [Playing Defense: Improving Blue Team Skills Through Competitions](https://github.com/0xd13a/presentations/blob/main/general/PlayingDefense-AtlSecCon2026.pdf)|
 | 10/2/2025 | SecTor 2025 | [Siege- Security Competitions for Defenders](https://github.com/0xd13a/presentations/blob/main/general/SiegeSecurityCompetitionsForDefenders-SecTor2025.pdf) ([Video](https://youtu.be/NqzCckh9cYk))|
 | 10/14/2023 | Hackfest 2023 | [Between a Log and a Hard Place: (mis)Adventures in Azure Log Monitoring](https://github.com/0xd13a/presentations/blob/main/general/BetweenALogAndAHardPlace-Hackfest-2023.pdf) ([Demo video](https://www.youtube.com/watch?v=600OdiFNYWE)) ([Presentation Video](https://www.youtube.com/watch?v=DXYxuEsEyCg))|
